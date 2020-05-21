@@ -39,7 +39,7 @@
   background-size: cover;
 }
 .social__link--fb {
-  background: url("/img/facebook.svg");
+  background: url("../img/facebook.svg");
   width: 11px;
   height: 20px;
   opacity: 0.5;
@@ -49,7 +49,7 @@
   opacity: 1;
 }
 .social__link--tw {
-  background: url("/img/twitter.svg");
+  background: url("../img/twitter.svg");
   width: 20px;
   height: 17px;
   opacity: 0.5;
