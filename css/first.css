@@ -1,7 +1,7 @@
 .first {
   height: 100vh;
   min-height: 33rem;
-  background-image: url("/img/Background.jpg");
+  background-image: url("../img/Background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -259,7 +259,7 @@
 .first .search-form__btn {
   width: 18px;
   height: 18px;
-  background-image: url(/img/search.svg);
+  background-image: url(../img/search.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
